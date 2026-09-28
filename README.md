@@ -18,21 +18,25 @@ The study examines four related temporal factors:
 3. local inter-frame interaction and repetition-induced adjacency;
 4. sensitivity to global chronological ordering.
 
-Experiments are conducted using EfficientFormerV2-S0 and MobileNetV2
+Experiments are conducted using EfficientFormerV2-S0 and MobileNetV2,
 with and without lightweight temporal modeling.
 
-## Datasets
+## Experimental Setting
 
 ### Source datasets
 
-- Hockey Fight
-- Movie Fight
-- Violent Flows
-- AVDV
-- SCFD
-- RLVS
+The source-domain experiments use:
+
+- Hockey Fight (HF)
+- Movie Fight (MF)
+- Violent Flows (VCF)
+- Automatic Violence Detection in Videos (AVDV)
+- Surveillance Camera Fight Dataset (SCFD)
+- Real-Life Violence Situations (RLVS)
 
 ### Held-out domains
+
+Cross-domain evaluation is performed on:
 
 - RWF-2000
 - UCF-Crime Fighting
