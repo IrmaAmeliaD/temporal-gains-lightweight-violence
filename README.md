@@ -47,17 +47,15 @@ hyperparameter selection, or domain adaptation.
 
 ## Reproducibility Settings
 
-Training seeds:
-
-```text
-0, 42, 123
+Training seeds: 0, 42, 123
 
 Fixed data split seed:42
 
 MobileNetV2 native temporal budgets:T = {1, 2, 4, 8}
 At fixed input length, T denotes the number of temporal positions processed by the model, while K <= T denotes the number of distinct temporal observations represented in the sequence.
 
-**## Repository Structure **
+## Repository Structure
+
 notebooks/
     Training, evaluation, temporal diagnostics, and profiling notebooks
 
@@ -67,7 +65,7 @@ data/
 results/
     Processed numerical results reported in the manuscript
 
-## **Main Experiments**
+## Main Experiments
 The repository contains reproducibility materials for:
 - native temporal input length;
 - fixed-T temporal redundancy;
