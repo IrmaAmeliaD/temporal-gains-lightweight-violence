@@ -1,0 +1,49 @@
+condition,seed,T,K_train,K_test,train_layout,test_layout,dataset,ap
+Ktrain4 grouped -> grouped,0,8,4,4,grouped,grouped,BV,0.5209295061533595
+Ktrain4 grouped -> grouped,42,8,4,4,grouped,grouped,BV,0.5385741480821633
+Ktrain4 grouped -> grouped,123,8,4,4,grouped,grouped,BV,0.5451232159850323
+Ktrain4 grouped -> grouped,0,8,4,4,grouped,grouped,RWF,0.6850218030529073
+Ktrain4 grouped -> grouped,42,8,4,4,grouped,grouped,RWF,0.6866559826630644
+Ktrain4 grouped -> grouped,123,8,4,4,grouped,grouped,RWF,0.6836976333768757
+Ktrain4 grouped -> grouped,0,8,4,4,grouped,grouped,SOURCE_POOLED,0.9815161962133983
+Ktrain4 grouped -> grouped,42,8,4,4,grouped,grouped,SOURCE_POOLED,0.9841262216287605
+Ktrain4 grouped -> grouped,123,8,4,4,grouped,grouped,SOURCE_POOLED,0.9786215770928026
+Ktrain4 grouped -> grouped,0,8,4,4,grouped,grouped,UCF,0.6868846849765535
+Ktrain4 grouped -> grouped,42,8,4,4,grouped,grouped,UCF,0.6173573560518959
+Ktrain4 grouped -> grouped,123,8,4,4,grouped,grouped,UCF,0.6812040545603619
+Ktrain4 grouped -> interleaved,0,8,4,4,grouped,interleaved,BV,0.5392621283193088
+Ktrain4 grouped -> interleaved,42,8,4,4,grouped,interleaved,BV,0.5645495199908511
+Ktrain4 grouped -> interleaved,123,8,4,4,grouped,interleaved,BV,0.5542355716088999
+Ktrain4 grouped -> interleaved,0,8,4,4,grouped,interleaved,RWF,0.7355942334692327
+Ktrain4 grouped -> interleaved,42,8,4,4,grouped,interleaved,RWF,0.7484187591854855
+Ktrain4 grouped -> interleaved,123,8,4,4,grouped,interleaved,RWF,0.7433123283006771
+Ktrain4 grouped -> interleaved,0,8,4,4,grouped,interleaved,SOURCE_POOLED,0.9793902582288215
+Ktrain4 grouped -> interleaved,42,8,4,4,grouped,interleaved,SOURCE_POOLED,0.9836687301185864
+Ktrain4 grouped -> interleaved,123,8,4,4,grouped,interleaved,SOURCE_POOLED,0.9758683206865036
+Ktrain4 grouped -> interleaved,0,8,4,4,grouped,interleaved,UCF,0.7445495203562998
+Ktrain4 grouped -> interleaved,42,8,4,4,grouped,interleaved,UCF,0.7015479594163854
+Ktrain4 grouped -> interleaved,123,8,4,4,grouped,interleaved,UCF,0.7335110049555607
+Ktrain4 interleaved -> interleaved,0,8,4,4,interleaved,interleaved,BV,0.5730510606937782
+Ktrain4 interleaved -> interleaved,42,8,4,4,interleaved,interleaved,BV,0.5483940086305101
+Ktrain4 interleaved -> interleaved,123,8,4,4,interleaved,interleaved,BV,0.5794847336462091
+Ktrain4 interleaved -> interleaved,0,8,4,4,interleaved,interleaved,RWF,0.7486862457201969
+Ktrain4 interleaved -> interleaved,42,8,4,4,interleaved,interleaved,RWF,0.7317291403629662
+Ktrain4 interleaved -> interleaved,123,8,4,4,interleaved,interleaved,RWF,0.7025387587615731
+Ktrain4 interleaved -> interleaved,0,8,4,4,interleaved,interleaved,SOURCE_POOLED,0.9819059489049783
+Ktrain4 interleaved -> interleaved,42,8,4,4,interleaved,interleaved,SOURCE_POOLED,0.984766692385979
+Ktrain4 interleaved -> interleaved,123,8,4,4,interleaved,interleaved,SOURCE_POOLED,0.9875268931510333
+Ktrain4 interleaved -> interleaved,0,8,4,4,interleaved,interleaved,UCF,0.7788625592439486
+Ktrain4 interleaved -> interleaved,42,8,4,4,interleaved,interleaved,UCF,0.699648179612371
+Ktrain4 interleaved -> interleaved,123,8,4,4,interleaved,interleaved,UCF,0.6454073740199568
+Native T=4,0,4,4,4,native,native,BV,0.5707
+Native T=4,42,4,4,4,native,native,BV,0.5482
+Native T=4,123,4,4,4,native,native,BV,0.5306
+Native T=4,0,4,4,4,native,native,RWF,0.7032
+Native T=4,42,4,4,4,native,native,RWF,0.7271
+Native T=4,123,4,4,4,native,native,RWF,0.7271
+Native T=4,0,4,4,4,native,native,SOURCE_POOLED,0.9834114805102311
+Native T=4,42,4,4,4,native,native,SOURCE_POOLED,0.9854177158072401
+Native T=4,123,4,4,4,native,native,SOURCE_POOLED,0.9837188100084886
+Native T=4,0,4,4,4,native,native,UCF,0.7514
+Native T=4,42,4,4,4,native,native,UCF,0.7916
+Native T=4,123,4,4,4,native,native,UCF,0.7659
