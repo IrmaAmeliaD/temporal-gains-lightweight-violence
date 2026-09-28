@@ -67,7 +67,7 @@ data/
 results/
     Processed numerical results reported in the manuscript
 
-**Main Experiments**
+## **Main Experiments**
 The repository contains reproducibility materials for:
 - native temporal input length;
 - fixed-T temporal redundancy;
@@ -75,16 +75,16 @@ The repository contains reproducibility materials for:
 - temporal-order perturbation;
 - paired bootstrap analysis;
 - CPU profiling.
-**Data Availability**
+## **Data Availability**
 Raw video datasets are not redistributed in this repository.
 Users should obtain the datasets from their original sources.
 Dataset identifiers and evaluation manifests used in the experiments
 will be provided under data/manifests/.
-**Results**
+## **Results**
 Processed numerical results corresponding to the manuscript tables and
 figures will be provided under results/.
 
-**Citation**
+## **Citation**
 If you use this repository, please cite:
 Irma Amelia Dewi et al.
 Temporal Gains in Lightweight Violence Detection under Domain Shift:
