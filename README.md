@@ -1,8 +1,8 @@
-# Temporal Gains in Lightweight Violence Detection under Domain Shift
+# Temporal Gains in Lightweight Violence Detection
 
 Official code and reproducibility materials for the paper:
 
-**Temporal Gains in Lightweight Violence Detection under Domain Shift:
+**Temporal Gains in Lightweight Violence Detection:
 Frame Budget, Temporal Interaction and Ordering**
 
 ## Overview
